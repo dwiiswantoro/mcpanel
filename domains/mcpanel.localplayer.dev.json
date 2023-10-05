@@ -1,0 +1,16 @@
+{
+    "description": "Project Description",
+
+    "domain": "localplayer.dev",
+    "subdomain": "mcpanel",
+
+    "owner": {
+        "repo": "https://github.com/dwiiswantoro"
+    },
+
+    "record": {
+        "A": ["202.152.148.82"]
+    },
+
+    "proxied": true
+}
